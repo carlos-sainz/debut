@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Debut de Sainz en Toro Rosso (2015-2017)
 
-You can use the [editor on GitHub](https://github.com/carlos-sainz/debut/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Sainz condujo para la Scuderia Toro Rosso en la temporada 2015, donde se asoció con Max Verstappen, luego de la promoción de Daniil Kvyat a Red Bull Sainz seleccionó el 55 como su número de carrera. Se clasificó entre los diez primeros en su debut, en el Gran Premio de Australia de 2015, y terminó la carrera en novena posición. En la tercera sesión de entrenamientos libres del Gran Premio de Rusia de 2015, Sainz perdió el control de su coche al entrar en la curva 13 del Autodrom de Sochi, chocó contra un muro y se estrelló contra las barreras Tecpro. Después de pasar una noche en el hospital, se le permitió correr al día siguiente, pero no terminó la carrera. En el Gran Premio de Estados Unidos llegó a terminar 7º, que fue su último resultado en los puntos del año. Terminó 15º en su primera temporada con Toro Rosso.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+“Estoy muy feliz de unirme a Toro Rosso. Desde que me uní al programa juvenil de Red Bull, este ha sido mi objetivo", dijo Sainz Jr. en el comunicado del equipo.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Debut de Sainz en Renault (2017–2018)
 
-# Header 1
-## Header 2
-### Header 3
+Sainz se mudó a Renault comenzando con el Gran Premio de Estados Unidos de 2017, donde reemplazó a Jolyon Palmer y se asoció con Nico Hülkenberg en Renault, y Kvyat regresó a Toro Rosso para ocupar su antiguo lugar. En su primera carrera para Renault, Sainz terminó la carrera en séptimo lugar y superó a Nico Hülkenberg, una hazaña que Jolyon Palmer no pudo hacer durante todo el año, aunque significó muy poco ya que Hülkenberg optó por no publicar un tiempo de vuelta en la Q2 debido a su parrilla inminente. Una actuación menos impresionante siguió en la próxima carrera en México. Se clasificó 9º, tres décimas y media por debajo de Hülkenberg en 8º, y comenzó la carrera en 7º tras las penalizaciones de motor de Ricciardo. Después de la primera vuelta, se encontró en quinto lugar, detrás de Hülkenberg, luego de que los aspirantes al campeonato, Vettel y Hamilton chocaran al comienzo de la carrera. Sin embargo, Sainz hizo un trompo en la sección de alta velocidad de la pista y pinchó sus neumáticos y se vio obligado a entrar en boxes y salió en el puesto 19, solo con el Mercedes dañado y retrasado de Lewis Hamilton detrás. Permanecería en la cola del campo hasta que se retirara de la carrera por problemas de dirección. No terminaría en los puntos por el resto de la temporada.
 
-- Bulleted
-- List
+Terminó la temporada en noveno lugar, el más alto de su carrera, con el total de puntos combinados de su tiempo en Toro Rosso y Renault.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/carlos-sainz/debut/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Sainz tuvo un comienzo positivo en la temporada 2018 anotando en cinco de las primeras seis carreras, pero terminó detrás de su compañero de equipo Nico Hülkenberg en cada una de las cuatro carreras en las que ambos terminaron. En Azerbaiyán, Sainz terminó en quinto lugar en la mejor posición de la temporada. Terminaría la temporada en décimo lugar con 53 puntos, 3 lugares y 16 puntos detrás de su compañero de equipo Hülkenberg anotando puntos en 13 carreras de las 19 carreras que terminó.
